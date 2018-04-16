@@ -1,8 +1,8 @@
 # data-preprocessing-template
 
-My personal template for data preprocessing operations, written in Python 3
+My personal template for machine learning operations, written in Python 3
 
-In this simple template, I created my own template for later usage on data preprocessing. I titled preprocessing steps with python comments
+In this simple template, I created my own template for later usage on machine learning. I titled  steps with python comments
 betwen three stars such as : *** Example title ***
 
 In the other hand, near some methods and under some titles, there are explanations for educational purposes and these explanations are in Turkish language.
