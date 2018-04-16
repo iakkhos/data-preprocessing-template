@@ -1,4 +1,4 @@
-# data-preprocessing-template
+# machine-learning-template
 
 My personal template for machine learning operations, written in Python 3
 
